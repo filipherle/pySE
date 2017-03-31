@@ -1,16 +1,16 @@
 # pySE
 pySE is a small social-engineering tool made with Python2 and love.
 
-## Introduction
+# Introduction
 
 Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential information.
 
 I created this project in order to make it easier for IT's and security experts to social engineer.
 
-## Donations?
+# Donations?
 #### www.paypal.me/toxicnull
 
-## Dependencies
+# Dependencies
 
 * flask
 * pythonwhois
@@ -21,8 +21,8 @@ I created this project in order to make it easier for IT's and security experts 
 * Python 2.7.x
 * Git
 
-## Download & Installation
-# [Android]
+# Download & Installation
+## [Android]
 
 Get the repository off of Github by cloning it:
 
@@ -40,7 +40,7 @@ Execute PySE:
 
     python2 pySE.py
 
-# [Windows]
+## [Windows]
 
 Get the repository off of Github by downloading it.
 
@@ -50,7 +50,7 @@ Execute the setup with python.
     
 Execute PySE.
 
-# [Mac & Linux]
+## [Mac & Linux]
 Get the repository off of Github by cloning it:
 
     git clone https://github.com/toxic-ig/pySE
@@ -67,7 +67,7 @@ Execute PySE:
 
     pyse
     
-## Issues?
+# Issues?
 
 If you have any issues regarding the source code of this framework, as well as any errors you have encountered, please contact me at 
 
