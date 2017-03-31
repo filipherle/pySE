@@ -38,7 +38,7 @@ Execute the setup with python:
     
 Execute PySE:
 
-    python2 pySE.py
+    python2 PySE.py
 
 ## [Windows]
 
@@ -46,7 +46,7 @@ Get the repository off of Github by downloading it.
 
 Change into the pySE directory.
 
-Execute the setup with python.
+Execute the setup.py with python.
     
 Execute PySE.
 
