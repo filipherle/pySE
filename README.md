@@ -22,24 +22,51 @@ I created this project in order to make it easier for IT's and security experts 
 * Git
 
 ## Download & Installation
+# [Android]
 
 Get the repository off of Github by cloning it:
 
     git clone https://github.com/toxic-ig/pySE
 
-Change into the quack directory:
+Change into the pySE directory:
 
     cd /path/to/pySE
 
 Execute the setup with python:
 
-    python setup.py
+    python2 setup.py
     
 Execute PySE:
 
-    python pySE.py
+    python2 pySE.py
 
+# [Windows]
 
+Get the repository off of Github by downloading it.
+
+Change into the pySE directory.
+
+Execute the setup with python.
+    
+Execute PySE.
+
+# [Mac & Linux]
+Get the repository off of Github by cloning it:
+
+    git clone https://github.com/toxic-ig/pySE
+
+Change into the pySE directory:
+
+    cd /path/to/pySE
+
+Execute the setup with python:
+
+    python2 setup.py
+    
+Execute PySE:
+
+    pyse
+    
 ## Issues?
 
 If you have any issues regarding the source code of this framework, as well as any errors you have encountered, please contact me at 
