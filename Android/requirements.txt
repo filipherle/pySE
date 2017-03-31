@@ -1,0 +1,8 @@
+flask
+
+pythonwhois
+
+mechanize
+requests
+terminaltables
+google
