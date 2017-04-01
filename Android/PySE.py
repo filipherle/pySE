@@ -86,9 +86,9 @@ mailer                +
 massmailer            +
 anonmailer            +
 credharvest           +
-website_source        +
-website_info          +
-google_query          +
+websitesource         +
+websiteinfo           +
+googlequery           +
 help                  +
 exit                  +
 =======================
