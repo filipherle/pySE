@@ -221,14 +221,17 @@ class pyse(cmd.Cmd):
                 pySE.run(host='0.0.0.0', port=5000, threaded=True)
         FlaskPhish()
     def do_websitesource(self, line):
-        url = line
-        response = urllib2.urlopen(url)
-        page_source = response.read()
-        timestr = time.strftime("%Y%m%d-%H%M%S")
-        with io.FileIO('source/%s' % timestr, 'w') as file:
-            file.write(page_source)
-        print LG + "[*] Finished cloning %s" % url + W
-        print LG + "[*] Check source/ directory for html file" + W
+	try:
+            url = line
+            response = urllib2.urlopen(url)
+            page_source = response.read()
+            timestr = time.strftime("%Y%m%d-%H%M%S")
+            with io.FileIO('source/%s' % timestr, 'w') as file:
+                file.write(page_source)
+            print LG + "[*] Finished cloning %s" % url + W
+            print LG + "[*] Check source/ directory for html file" + W
+	except:
+		print "Error! :/"
     def do_websiteinfo(self, line):
         url = line
         domains = [url]
