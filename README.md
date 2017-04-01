@@ -1,6 +1,8 @@
 # pySE
 pySE is a small social-engineering tool made with Python2 and love.
 
+## Thanks to Reconx00 - https://github.com/R3C0Nx00
+
 # Introduction
 
 Social engineering, in the context of information security, refers to psychological manipulation of people into performing actions or divulging confidential information.
