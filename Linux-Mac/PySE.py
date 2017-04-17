@@ -43,6 +43,7 @@ try:
     from google import search
 except ImportError, e:
     print LR + "[!] Must run install script" + W
+    print e
     exit(1)
 banners = ['banner1', 'banner2']
 banner1 = LG + """
