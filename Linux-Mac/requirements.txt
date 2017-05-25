@@ -1,4 +1,6 @@
 flask
-mechanize
 pythonwhois
+mechanize
+requests
 terminaltables
+google
