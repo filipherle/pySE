@@ -26,46 +26,70 @@ I created this project in order to make it easier for IT's and security experts 
 
 Get the repository off of Github by cloning it:
 
-    git clone https://github.com/toxic-ig/pySE
+```console
+git clone https://github.com/toxic-ig/pySE
+```
 
 Change into the pySE directory:
 
-    cd /path/to/pySE
+```console
+cd /path/to/pySE
+```
 
 Execute the setup with python:
 
-    python2 setup.py
+```console
+python2 setup.py
+```
     
 Execute PySE:
 
-    python2 PySE.py
+```console
+python2 PySE.py
+```
 
 ## [Windows]
 
 Get the repository off of Github by downloading it.
-
+```console
+git clone https://github.com/toxic-ig/pySE
+```
 Change into the pySE directory.
-
+```console
+cd /path/to/pySE
+```
 Execute the setup.py with python.
-    
+```console
+python2 setup.py
+```
 Execute PySE.
-
+```console
+pyse
+```
 ## [Mac & Linux]
 Get the repository off of Github by cloning it:
 
-    git clone https://github.com/toxic-ig/pySE
+```console
+git clone https://github.com/toxic-ig/pySE
+```
 
 Change into the pySE directory:
 
-    cd /path/to/pySE
+```console
+cd /path/to/pySE
+```
 
 Execute the setup with python:
 
-    python2 setup.py
+```console
+python2 setup.py
+```
     
 Execute PySE:
 
-    pyse
+```console
+pyse
+```
     
 # Issues?
 
