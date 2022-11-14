@@ -73,9 +73,6 @@ If you have any issues regarding the source code of this framework, as well as a
 
     Xmpp: toxic-ig@exploit.im
     Email: toxicnull@gmail.com
-    Instagram: @_t0x1c
     Twitter: @toxicnull
-    Kik: toxicnull
-    Discord: #9073
     
-## Thanks to Reconx00 - https://github.com/R3C0Nx00
+## Thanks to Reconx00 
