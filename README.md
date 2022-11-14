@@ -26,7 +26,7 @@ I created this project in order to make it easier for IT's and security experts 
 
 Get the repository off of Github by cloning it:
 
-    git clone https://github.com/toxic-ig/pySE
+    git clone https://github.com/filipherle/pySE
 
 Change into the pySE directory:
 
@@ -53,7 +53,7 @@ Execute PySE.
 ## [Mac & Linux]
 Get the repository off of Github by cloning it:
 
-    git clone https://github.com/toxic-ig/pySE
+    git clone https://github.com/filipherle/pySE
 
 Change into the pySE directory:
 
